@@ -1,5 +1,6 @@
 require 'sinatra'
-class App < Sinatra::Base
+class MyApp < Sinatra::Base
   get '/' do
     "Hello World!"
-    
+  end
+end
