@@ -1,2 +1,2 @@
 require 'sinatra'
-class
+class App
