@@ -1,2 +1,3 @@
 require 'sinatra'
-class App < Sinatra
+class App < Sinatra::Base
+  
